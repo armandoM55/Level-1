@@ -9,5 +9,6 @@ public static void main(String[] args) {
 Smurf Ryon1=new Smurf("Ryon");
 String Dank=Ryon1.getName();
 System.out.println(Dank);
+Ryon1.eat();
 }
 }
